@@ -18,9 +18,9 @@ public class App
 
 
 
-    public static int plusTen(int num){
+    public static int plusFive(int num){
 
-        return num + 10;
+        return num + 5;
     }
 
 }
