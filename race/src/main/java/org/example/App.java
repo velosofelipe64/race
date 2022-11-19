@@ -17,10 +17,4 @@ public class App
     }
 
 
-
-    public static int plusFive(int num){
-
-        return num + 5;
-    }
-
 }
