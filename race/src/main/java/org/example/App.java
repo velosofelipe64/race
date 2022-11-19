@@ -12,7 +12,7 @@ public class App
     {
         System.out.println( "Hello World!" );
 
-        int num = plusTen(10);
+        int num = plusFive(10);
 
     }
 
